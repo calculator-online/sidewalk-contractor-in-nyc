@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://edencontractingny.com/sitemap.xml
+
+# Allow all search engines to crawl the site
+# Focus on affordable sidewalk repair and free estimates
+
+# Disallow any admin or private directories (none in this static site)
+# Allow all public pages for maximum SEO visibility
+
+# Crawl-delay (optional, not needed for this site)
+# Crawl-delay: 1
+
